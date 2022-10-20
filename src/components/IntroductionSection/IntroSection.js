@@ -2,7 +2,7 @@ import React from 'react'
 
 function IntroSection() {
   return (
-    <div className='bg-[#0a192f] flex justify-center w-full relative top-[62px] h-auto pl-10 pt-10 pb-12'>
+    <div className='bg-[#0a192f] flex justify-center w-full relative top-[68px] h-auto pl-10 pt-10 pb-12'>
         <div className='flex-col w-3/4 m-auto'>
             <p className='text-emerald-300 font-medium mb-8 w-5/8 sm:w-2/4 h-5/7  text-justify'>Hi, my name is</p>
             <p className='text-[#e0e7ff] font-bold text-4xl sm:text-5xl md:text-7xl mb-8 w-5/8 sm:w-4/4 h-5/7 text-justify'>Subhajit Ghosh</p>
