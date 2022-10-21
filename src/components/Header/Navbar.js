@@ -7,12 +7,11 @@ export default function Navbar({ fixed }) {
       <nav className="flex flex-wrap items-center justify-between px-5 py-8 bg-[#0a192f] absolute w-full z-10 ">
         <div className="container px-4 mx-auto flex flex-wrap items-center justify-between">
           <div className="w-full relative flex justify-between lg:w-auto lg:static lg:block lg:justify-start">
-            <a
-              className="text-sm font-bold leading-relaxed inline-block mr-4 py-2 whitespace-nowrap uppercase text-emerald-300"
-              href="#pablo"
-            >
-              Subhajit Ghosh
-            </a>
+            
+              <a href="#" className="block relative">
+                  <img alt="profil" src="/images/subhajit.jpg" className="mx-auto object-cover rounded-full h-14 w-14"/>
+              </a>
+
             <button
               className="text-white cursor-pointer text-xl leading-none px-3 py-1 border border-solid border-transparent rounded bg-transparent block lg:hidden outline-none focus:outline-none"
               type="button"
@@ -34,9 +33,25 @@ export default function Navbar({ fixed }) {
               <li className="nav-item">
                 <a
                   className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
+                  href="#about"
+                >
+                  <span className="ml-2">01. About</span>
+                </a>
+              </li>
+              <li className="nav-item hidden">
+                <a
+                  className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
                   href="#pablo"
                 >
-                  <i className="fab fa-facebook-square text-lg leading-lg text-gray-300 opacity-75"></i><span className="ml-2">01. About</span>
+                  <span className="ml-2">02. Experience</span>
+                </a>
+              </li>
+              <li className="nav-item">
+                <a
+                  className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
+                  href="#work"
+                >
+                  <span className="ml-2">03. Work</span>
                 </a>
               </li>
               <li className="nav-item">
@@ -44,23 +59,7 @@ export default function Navbar({ fixed }) {
                   className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
                   href="#pablo"
                 >
-                  <i className="fab fa-twitter text-lg leading-lg text-gray-300 opacity-75"></i><span className="ml-2">02. Experience</span>
-                </a>
-              </li>
-              <li className="nav-item">
-                <a
-                  className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
-                  href="#pablo"
-                >
-                  <i className="fab fa-pinterest text-lg leading-lg text-gray-300 opacity-75"></i><span className="ml-2">03. Work</span>
-                </a>
-              </li>
-              <li className="nav-item">
-                <a
-                  className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
-                  href="#pablo"
-                >
-                  <i className="fab fa-pinterest text-lg leading-lg text-gray-300 opacity-75"></i><span className="ml-2">04. Contact</span>
+                  <span className="ml-2">04. Contact</span>
                 </a>
               </li>
               <li className="nav-item">
@@ -68,7 +67,7 @@ export default function Navbar({ fixed }) {
                   className="px-8 py-2 rounded-md border-2 border-cyan-300 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
                   href="#pablo"
                 >
-                  <i className="fab fa-pinterest text-lg leading-lg  opacity-75"></i><span className="ml-2 text-cyan-300">Resume</span>
+                  <span className="ml-2 text-cyan-300">Resume</span>
                 </a>
               </li>
             </ul>

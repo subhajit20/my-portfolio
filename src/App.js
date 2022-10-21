@@ -2,6 +2,7 @@ import Navbar from './components/Header/Navbar';
 import IntroSection from './components/IntroductionSection/IntroSection';
 import About from './components/About/About';
 import { Footer } from './components/Footer/Footer';
+import ProjectTemplate from './components/ProjecT Component/ProjectTemplate';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
         <Navbar/>
         <IntroSection/>
         <About/>
+        <ProjectTemplate/>
         <Footer/>
       </div>
     </div>

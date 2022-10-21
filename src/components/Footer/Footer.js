@@ -10,7 +10,7 @@ export const Footer = () => {
               href="/"
               className="text-gray-500 transition-colors duration-300 hover:text-deep-purple-accent-400"
             >
-              <i class="fa-brands fa-github text-xl"></i>
+              <i className="fa-brands fa-github text-xl"></i>
             </a>
             <a
               href="/"
