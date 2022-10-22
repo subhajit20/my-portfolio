@@ -1,0 +1,78 @@
+{
+    "AllProjects":[
+        {
+            "id":1,
+            "project_name":"e-marcket",
+            "project_images":[
+                "./projectimages/e-marcket/img1.jpeg",
+                "./projectimages/e-marcket/img2.jpeg",
+                "./projectimages/e-marcket/img3.jpeg",
+                "./projectimages/e-marcket/img4.jpeg",
+                "./projectimages/e-marcket/img5.jpeg",
+                "./projectimages/e-marcket/img6.jpeg",
+                "./projectimages/e-marcket/img7.jpeg"
+            ],
+            "project_heading":"e-marcket",
+            "project_description":"This is a ecommerce web application made with react.js,node.js, and tailwind css",
+            "project_github_link":"https://github.com/subhajit20/e-marcket",
+            "project_deployed_link":"https://e-marcket.vercel.app/",
+            "project_creation_date":""
+        },
+        {
+            "id":2,
+            "project_name":"quiz-realm",
+            "project_images":[
+                "./projectimages/quiz-realm/img1.jpeg",
+                "./projectimages/quiz-realm/img2.jpeg",
+                "./projectimages/quiz-realm/img3.jpeg",
+                "./projectimages/quiz-realm/img4.jpeg",
+                "./projectimages/quiz-realm/img5.jpeg"
+            ],
+            "project_heading":"quiz-realm",
+            "project_description":"This is a quiz application , all quizes are generated from another third pary api which was not made by me.",
+            "project_github_link":"https://github.com/subhajit20/quiz-realm",
+            "project_deployed_link":"https://quiz-realm.vercel.app/dashboard",
+            "project_creation_date":""
+        },
+        {
+            "id":3,
+            "project_name":"Auto image detector and downloader",
+            "project_images":[
+                "./projectimages/Auto-image-detector-downloader/img1.jpeg",
+                "./projectimages/Auto-image-detector-downloader/img2.jpeg",
+                "./projectimages/Auto-image-detector-downloader/img3.jpeg"
+            ],
+            "project_heading":"Auto image detector and downloader",
+            "project_description":"This is a small project project where user can paste their any link or address the web app will recognize that wheather any image with this link is availabe or not, if availabe then it will show the image on the screen and user can also download it in its system, this project made with python django rest framework and in fron end site I have used html,css,javascript.",
+            "project_github_link":"https://github.com/subhajit20/Auto-Image-detector-and-downloder-in-Python-Django-",
+            "project_deployed_link":"https://auto-image-detector-downloader.netlify.app/",
+            "project_creation_date":""
+        },
+        {
+            "id":4,
+            "project_name":"Content management system",
+            "project_images":[
+                "./projectimages/CMS/img1.jpeg"
+            ],
+            "project_heading":"Content management system",
+            "project_description":"This is basically a content management system web application made with node.js,express.js... This project I have made for my client of truelancer",
+            "project_github_link":"https://github.com/subhajit20/Customer-relationship-management",
+            "project_deployed_link":"https://crm-api-dpkv.onrender.com/",
+            "project_creation_date":""
+        },
+        {
+            "id":5,
+            "project_name":"Drag and Drop project",
+            "project_images":[
+                "./projectimages/Drag-and-drop/img1.jpeg",
+                "./projectimages/Drag-and-drop/img2.jpeg"
+            ],
+            "project_heading":"Drag and Drop project",
+            "project_description":"This is a simple drag and drop project made with react.js...This project I have made for my client of truelancer",
+            "project_github_link":"https://github.com/subhajit20/Drag-and-Drop-Project",
+            "project_deployed_link":"https://drag-and-drop-eight.vercel.app/",
+            "project_creation_date":""
+        }
+        
+    ]
+}
