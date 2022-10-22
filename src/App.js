@@ -3,6 +3,7 @@ import IntroSection from './components/IntroductionSection/IntroSection';
 import About from './components/About/About';
 import { Footer } from './components/Footer/Footer';
 import ProjectTemplate from './components/ProjecT Component/ProjectTemplate';
+import Contact from './components/ContactComponent/Contact'
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
         <IntroSection/>
         <About/>
         <ProjectTemplate/>
+        <Contact/>
         <Footer/>
       </div>
     </div>
