@@ -65,7 +65,7 @@ export default function Navbar({ fixed }) {
               <li className="nav-item">
                 <a
                   className="px-8 py-2 rounded-md border-2 border-cyan-300 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
-                  href="./resume/sample.pdf" target="_blank"
+                  href="https://resume.io/r/8SWQy7ebG" target="_blank"
                 >
                   <span className="ml-2 text-cyan-300">Resume</span>
                 </a>
