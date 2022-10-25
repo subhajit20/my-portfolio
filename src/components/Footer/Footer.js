@@ -7,7 +7,7 @@ export const Footer = () => {
           </p>
           <div className="flex items-center mt-4 space-x-4 sm:mt-0">
             <a
-              href="/"
+              href="https://github.com/subhajit20"
               className="text-gray-500 transition-colors duration-300 hover:text-deep-purple-accent-400"
             >
               <i className="fa-brands fa-github text-xl"></i>
