@@ -39,7 +39,6 @@ function About() {
                 <div><i className="fa-solid fa-play text-emerald-600 text-[7px]"></i> <span className='text-white font-light'>React.js</span></div>
                 <div><i className="fa-solid fa-play text-emerald-600 text-[7px]"></i> <span className='text-white font-light'>Django</span></div>
                 <div><i className="fa-solid fa-play text-emerald-600 text-[7px]"></i> <span className='text-white font-light'>Node.js</span></div>
-                <div><i className="fa-solid fa-play text-emerald-600 text-[7px]"></i> <span className='text-white font-light'>Spring</span></div>
               </div>
             </div>
           </div>
