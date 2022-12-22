@@ -72,6 +72,19 @@
             "project_github_link":"https://github.com/subhajit20/Drag-and-Drop-Project",
             "project_deployed_link":"https://drag-and-drop-eight.vercel.app/",
             "project_creation_date":""
+        },{
+            "id":6,
+            "project_name":"Bangla News Scrapper Web Application with self-made Pagination",
+            "project_images":[
+                "./projectimages/Bangla-News-Scrapper-with-Pagination/Bangla News and 5 more pages - Personal - Microsoft​ Edge 22-12-2022 21_58_12.png",
+                "./projectimages/Bangla-News-Scrapper-with-Pagination/Bangla News and 5 more pages - Personal - Microsoft​ Edge 22-12-2022 21_58_30.png",
+                "./projectimages/Bangla-News-Scrapper-with-Pagination/Bangla News and 5 more pages - Personal - Microsoft​ Edge 22-12-2022 21_58_41.png"
+            ],
+            "project_heading":"Bangla News Scrapper Web Application with self-made Pagination",
+            "project_description":"This is basically a news scrapper website which provides real time news sometimes after.- This server side of this project made with Python ,Django rest framework, requests, beautiful soup modules- The client side of this project made with pure html5, css3 and javascript es6.- I have implemented pagination feature in this project through which we can navigate every news in the form of seperate pages.",
+            "project_github_link":"https://github.com/subhajit20/Bangla-News-Scrapper-Frontend-",
+            "project_deployed_link":"https://subhajit20.github.io/Bangla-News-Scrapper-Frontend-/",
+            "project_creation_date":""
         }
         
     ]
