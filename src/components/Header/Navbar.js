@@ -65,7 +65,7 @@ export default function Navbar({ fixed }) {
               <li className="nav-item">
                 <a
                   className="px-8 py-2 rounded-md border-2 border-cyan-300 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
-                  href="https://docs.google.com/document/d/1jalWSEDMif_QtQYiuj5I39b1ZXLGwwtWFskDS-5gC6k/edit?usp=sharing" target="_blank"
+                  href="https://docs.google.com/document/d/1xYbWztMWi8ihxPowQcwTQhT_thvUsbhMB9NJOXT3e9o/edit?usp=sharing" target="_blank"
                 >
                   <span className="ml-2 text-cyan-300">Resume</span>
                 </a>
